@@ -134,7 +134,7 @@ dmypy.json
 # Data
 *transactions*.jsonl
 /examples/data/transactions*
-/examples/data/ZyntriQix.wav
+/examples/data/*.wav
 *.DS_Store
 tmp_*
 examples/fine-tuned_qa/local_cache/*
